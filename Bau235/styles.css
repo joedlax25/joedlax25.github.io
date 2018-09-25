@@ -1,0 +1,35 @@
+body { background: steelblue;
+    color: darkred;}
+
+body { font-family: 'Oswald', sans-serif; }
+
+li { display: inline-block }
+li { border: 2px solid #fafdf5
+}
+
+h1 { font-size: 250%;
+    font-weight: bold;
+    color: navy }
+
+h1 { border: 10px solid red }
+
+h1 { padding: 10px;
+    margin-right: 1025px;
+    background: steelblue }
+
+p2 { font-size: 75%;
+    font-style: italic;
+    color: white }
+p2 { padding: 3px;
+    margin-left: 0px;
+    background: steelblue }
+
+p3 { padding: 3px;
+    margin-left: 10px;
+    background: steelblue }
+
+
+
+a { color: darkred;
+    text-decoration: none }
+a:hover { color: white }
